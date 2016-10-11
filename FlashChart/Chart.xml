@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<graph caption="X公司 - 每月销售额饼形图" xAxisName="月份" showNames="1" decimalPrecision="0" formatNumberScale="0">
+  <set name="一月" value="462" color="73FE43"/>
+  <set name="二月" value="300" color="1C9122"/>
+  <set name="三月" value="671" color="469087"/>
+  <set name="四月" value="494" color="337DE0"/>
+  <set name="五月" value="761" color="AB5B29"/>
+  <set name="六月" value="960" color="675AEB"/>
+  <set name="七月" value="629" color="FA4169"/>
+  <set name="八月" value="622" color="EDB0B8"/>
+  <set name="九月" value="376" color="F54AE0"/>
+  <set name="十月" value="494" color="80CE83"/>
+  <set name="十一月" value="761" color="CCD631"/>
+  <set name="十二月" value="650" color="C226AA"/>
+</graph>
