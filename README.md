@@ -22,7 +22,7 @@
 
 - *爬虫*
 
-![爬虫](./Pic/Spider.png)
+![爬虫](./Pic/Spider2016.png)
 
 - *数据分析*
 
