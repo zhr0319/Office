@@ -6,6 +6,6 @@
 
 使用Selenium + 本机的Chrome浏览器进行测试操作，页面会在点击四次后自动提交，虽然设置了延时，还是没有截屏到验证成功的画面。
 
-![Selenium](../Pic/sp20161017_200604.png)
+![Selenium](../Pic/sp20161018_192052.png)
 
-![Selenium](../Pic/sp20161017_200622.png)
+![Selenium](../Pic/sp20161018_192100.png)
